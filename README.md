@@ -29,6 +29,7 @@ Most of my recent production code is private (health AI platform, backend system
 ### Links
 
 - [LinkedIn](https://www.linkedin.com/in/jarvin-chavez-b9ba9a266/)
+- [Resume (PDF)](https://github.com/JarvinChavez/JarvinChavez/blob/main/resume.pdf)
 
 ---
 
