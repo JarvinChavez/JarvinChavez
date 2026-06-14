@@ -15,7 +15,8 @@ B.S. Computer Science @ University of St. Thomas (2026)
 | [**Neta**](https://github.com/JarvinChavez/Neta) | C++ · Qt 6 · QML | Capstone — cross-platform desktop structured notebook |
 | [**icn3d-implementation-proof-of-concept**](https://github.com/JarvinChavez/icn3d-implementation-proof-of-concept) | Node.js · Express · iCn3D | NSF research — motif rows → 3D protein visualization commands |
 | [**document-ai-viewer**](https://github.com/JarvinChavez/document-ai-viewer) | FastAPI · Docker | Inspect Google Document AI JSON entities in a web UI |
-| [**protein-motif-encoding**](https://github.com/JarvinChavez/protein-motif-encoding) | Python · OpenCV · pandas | UniProt motif tokenization + research visualization utilities |
+| [**protein-motif-encoding**](https://github.com/JarvinChavez/protein-motif-encoding) | Python · pandas · NumPy | UniProt motif region tokenization for clustering pipelines |
+| [**color-recognition**](https://github.com/JarvinChavez/color-recognition) | Python · OpenCV · Pillow | Research figure color palettes, grids, and region selection |
 | [**Data-science-assignments**](https://github.com/JarvinChavez/Data-science-assignments) | Python · scikit-learn | FARS crash contributing-factors pipeline |
 | [**leetcode-solutions**](https://github.com/JarvinChavez/leetcode-solutions) | Python | Structured DSA study log — [progress](https://github.com/JarvinChavez/leetcode-solutions) |
 
